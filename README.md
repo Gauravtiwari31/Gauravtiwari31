@@ -1,25 +1,21 @@
 # 💫 About Me:
 🔭 I’m currently working on :-<br>
-Full-stack projects (backend-first)<br>
-Document analysis tools with clean UI<br>
-DSA & competitive programming in C++<br>
+Building backend-first full-stack projects 🧠, experimenting with document analysis and clean dark-mode UI 📄🌙, while sharpening my DSA and competitive programming skills in C++ ⚙️.<br><br>
+
 👯 I’m looking to collaborate on :-<br>
-Logic-driven hackathon projects<br>
-Real-world backend web apps<br>
-Practical AI / automation tools<br>
+Hackathon projects where logic beats flashy UI 🚀, real-world web apps with solid backend flows 🔗, and practical AI or automation tools that actually solve problems 🤖.<br><br>
+
 🤝 I’m looking for help with :-<br>
-Scalable backend architecture<br>
-Production-level coding practices<br>
-System design fundamentals<br>
+Designing scalable backend architectures 🏗️, writing production-quality code instead of quick fixes 🧩, and understanding system design without buzzwords 🧠.<br><br>
+
 🌱 I’m currently learning :-<br>
-Node.js & Express<br>
-Frontend basics → React<br>
-DSA in C++<br>
-💬 Ask me about:-<br>
-C++ logic & CP mistakes<br>
-Backend request flow<br>
+Backend development with Node.js and Express 🔥, strengthening frontend fundamentals before jumping to React 🎨, and mastering DSA in C++ with a logic-first mindset ⚙️.<br><br>
+
+💬 Ask me about :-<br>
+C++ logic mistakes, competitive programming breakdowns 🧠, and how backend servers handle requests from start to finish 🌐.<br><br>
+
 ⚡ Fun fact :-<br>
-If I can’t explain it, I don’t trust it.
+If I can’t explain why a piece of code works, I don’t trust it 🤨.
 
 
 ## 🌐 Socials:
