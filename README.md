@@ -2,27 +2,22 @@
 🔭 I’m currently working on :-<br>
 Full-stack projects (backend-first)<br>
 Document analysis tools with clean UI<br>
-DSA & competitive programming in C++<br><br>
-
+DSA & competitive programming in C++<br>
 👯 I’m looking to collaborate on :-<br>
 Logic-driven hackathon projects<br>
 Real-world backend web apps<br>
-Practical AI / automation tools<br><br>
-
+Practical AI / automation tools<br>
 🤝 I’m looking for help with :-<br>
 Scalable backend architecture<br>
 Production-level coding practices<br>
-System design fundamentals<br><br>
-
+System design fundamentals<br>
 🌱 I’m currently learning :-<br>
 Node.js & Express<br>
 Frontend basics → React<br>
-DSA in C++<br><br>
-
+DSA in C++<br>
 💬 Ask me about:-<br>
 C++ logic & CP mistakes<br>
-Backend request flow<br><br>
-
+Backend request flow<br>
 ⚡ Fun fact :-<br>
 If I can’t explain it, I don’t trust it.
 
