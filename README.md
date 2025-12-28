@@ -1,5 +1,35 @@
 # 💫 About Me:
-🔭 I’m currently working on :-<br>Building full-stack web projects with a focus on backend logic and real problem-solving<br>Developing document analyser, summaries, and dark-mode UI<br>Strengthening DSA and competitive programming using C++<br>Improving frontend quality (UI/UX, themes, responsiveness) for hackathon-level projects<br><br>👯 I’m looking to collaborate on :-<br>Hackathon projects where logic, not just flashy UI, actually matters<br>Web apps involving backend APIs, authentication, or real-world workflows<br>Beginner-friendly AI/automation tools with practical use cases<br>Open-source projects where I can contribute meaningful code, not cosmetic changes<br>(If someone’s only contribution is “idea guy” energy, you’re not interested—don’t say that, but it’s implied.)<br><br>🤝 I’m looking for help with :-<br>Writing clean, scalable backend architecture (Express, APIs, controllers, flow)<br>Leveling up from “it works” code to production-quality logic<br>Understanding system design basics step-by-step instead of buzzwords<br>Learning modern frontend tools without skipping fundamentals<br><br>🌱 I’m currently learning :-<br>Backend development (Node.js, Express, routing, controllers, request lifecycle)<br>Frontend fundamentals (HTML, CSS, JavaScript) with plans to move toward React<br>Data structures & algorithms in C++ (logic first, speed later)<br>Core computer science fundamentals instead of shallow framework hopping<br><br>💬 Ask me about:-<br>C++ basics, loops, strings, vectors, and common logic mistakes<br>Competitive programming problem breakdowns (especially where logic fails)<br>How backend servers actually work (requests, routes, controllers, persistence)<br>Turning a confusing problem statement into executable logic<br><br>⚡ Fun fact :-<br>I don’t trust “magic” code. If I can’t explain why something works, I don’t consider it learned.
+🔭 I’m currently working on :-<br>
+Full-stack web projects with strong backend logic<br>
+Document analysis tools with summaries and dark-mode UI<br>
+DSA and competitive programming in C++<br>
+Frontend UI/UX improvements for hackathon projects<br><br>
+
+👯 I’m looking to collaborate on :-<br>
+Hackathon projects focused on logic and real solutions<br>
+Web apps with backend APIs and authentication<br>
+Practical AI/automation tools<br>
+Open-source projects with meaningful code contributions<br><br>
+
+🤝 I’m looking for help with :-<br>
+Clean and scalable backend architecture (Express, APIs)<br>
+Writing production-quality code<br>
+System design fundamentals (no buzzwords)<br>
+Modern frontend tools built on strong basics<br><br>
+
+🌱 I’m currently learning :-<br>
+Backend development (Node.js, Express)<br>
+Frontend fundamentals (HTML, CSS, JavaScript)<br>
+DSA in C++<br>
+Core computer science concepts<br><br>
+
+💬 Ask me about:-<br>
+C++ logic and common mistakes<br>
+Competitive programming problem breakdowns<br>
+How backend servers and APIs work<br><br>
+
+⚡ Fun fact :-<br>
+If I can’t explain why code works, I don’t count it as learning.
 
 
 ## 🌐 Socials:
