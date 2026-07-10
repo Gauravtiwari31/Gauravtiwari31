@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=Electronics+Engineer+@+RGIPT;Minor+in+CSE+@+IIT+Mandi;Full-Stack+Developer;Problem+Solver+&+Tech+Enthusiast;Building+Scalable+Backend+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Problem+Solver+&+Tech+Enthusiast;Building+Scalable+Backend+Architectures" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Tiwari</h1>
