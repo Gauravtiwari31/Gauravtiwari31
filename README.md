@@ -46,18 +46,18 @@ I am a B.Tech undergraduate in **Electronics Engineering** at **Rajiv Gandhi Ins
 
 ## 🛠️ Featured Projects
 
-### 🏥 VitalSync | [GitHub](#)
+### 🏥 VitalSync | [GitHub](https://github.com/Gauravtiwari31/VitalSync)
 **Tech Stack:** Next.js 14, TypeScript, PostgreSQL, Gemini AI, LiveKit  
 - Architected a multi-role healthcare platform with dashboards for appointment scheduling, OPD queue management, and room allocation.  
 - Integrated 4 third-party services via RESTful APIs: Gemini AI (triage), LiveKit (WebRTC), Pusher (real-time), and Razorpay (payments).  
 - Secured with OAuth 2.0, Prisma ORM, and RBAC; deployed serverlessly on Vercel with Neon PostgreSQL.
 
-### 🛡️ AI-Powered Network Security Framework | [GitHub](#)
+### 🛡️ AI-Powered Network Security Framework | [GitHub](https://github.com/Gauravtiwari31/AI-Powered-Network-Security-Framework)
 **Tech Stack:** Python, Scikit-learn, Deep Packet Inspection, Machine Learning  
 - Developed a real-time network packet inspection and malicious traffic detection framework using a 3-layer hybrid pipeline (ML, rule-based, DPI).  
 - Reduced false negatives via blacklist IP filtering and regex payload inspection, blocking SQL injections and 15+ suspicious traffic patterns.
 
-### 🛒 Online Commerce Platform | [GitHub](#)
+### 🛒 Online Commerce Platform | [GitHub](https://github.com/Gauravtiwari31/Online-Commerce_MERN-Stack)
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Docker  
 - Designed a MERN-stack e-commerce app with full order lifecycle management, JWT auth, and RBAC; containerized via Docker.  
 - Boosted product discoverability by 25% using a content-based recommendation engine; documented APIs with Swagger/OpenAPI.
@@ -137,16 +137,16 @@ I am a B.Tech undergraduate in **Electronics Engineering** at **Rajiv Gandhi Ins
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauravtiwari31&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauravtiwari31&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gauravtiwari31&theme=dark&hide_border=false" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Gauravtiwari31&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravtiwari31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravtiwari31&theme=radical&hide_border=true&layout=compact&count_private=true&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravtiwari31&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauravtiwari31&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -157,9 +157,9 @@ I am a B.Tech undergraduate in **Electronics Engineering** at **Rajiv Gandhi Ins
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Gauravtiwari31&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gauravtiwari31&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>"If I can’t explain why a piece of code works, I don’t trust it."</i>
+  <i>"If I can't explain why a piece of code works, I don't trust it."</i>
 </p>
