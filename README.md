@@ -136,40 +136,34 @@ I am a B.Tech undergraduate in **Electronics Engineering** at **Rajiv Gandhi Ins
 
 ## 📊 GitHub Analytics
 
-### 📈 Stats & Top Languages
+### 📅 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauravtiwari31&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravtiwari31&theme=radical&hide_border=true&layout=compact&count_private=true&cache_seconds=1800&v=1" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravtiwari31&theme=react-dark&hide_border=true&area=true&v=2" alt="Contribution Graph" />
 </p>
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gauravtiwari31&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800&v=1" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Gauravtiwari31&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800&v=2" alt="Contribution Streak" />
 </p>
 
-### 📅 Contribution Graph
+### 📈 GitHub Stats (Alternative Service)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravtiwari31&theme=react-dark&hide_border=true&area=true&v=1" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravtiwari31&theme=radical&v=2" alt="Profile Summary" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravtiwari31&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gauravtiwari31&theme=radical&v=2" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gauravtiwari31&theme=radical&v=2" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gauravtiwari31&theme=radical&v=2" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gauravtiwari31&theme=radical&v=2" alt="Productive Time" />
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gauravtiwari31&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"If I can't explain why a piece of code works, I don't trust it."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Dev Quote" />
 </p>
 
 ---
