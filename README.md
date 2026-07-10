@@ -167,7 +167,7 @@ I am a B.Tech undergraduate in **Electronics Engineering** at **Rajiv Gandhi Ins
 </p>
 
 ### 📆 Streak Calendar
-<img src="https://ghchart.rshah.org/00FF00/Gauravtiwari31" alt="Gaurav's Github chart" />
+<img src="https://raw.githubusercontent.com/Gauravtiwari31/Gauravtiwari31/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 ---
 
 <p align="center">
