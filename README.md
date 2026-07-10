@@ -166,6 +166,10 @@ I am a B.Tech undergraduate in **Electronics Engineering** at **Rajiv Gandhi Ins
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Dev Quote" />
 </p>
 
+### 📆 Streak Calendar
+<p align="center">
+  <img src="./assets/streak-calendar.png" alt="Streak Calendar" />
+</p>
 ---
 
 <p align="center">
